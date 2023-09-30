@@ -1,3 +1,5 @@
+// Factorial Program for a small test
+
 package factorial;
 
 public class Factorial{
